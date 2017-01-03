@@ -2,8 +2,8 @@ title: zhouning blog
 email: 244305150@qq.com
 phone: 123456
 description: 个人博客 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/znblog" # the subpath of your site, e.g. /blog
+url: "https://zhousning.github.io/jekyll-template/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
